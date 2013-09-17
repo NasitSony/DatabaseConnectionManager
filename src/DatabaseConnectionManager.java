@@ -13,7 +13,7 @@ import java.io.*;
 import CreatorClass.*;
 import ProductClass.*;
 
-public class PatternExercise1 {
+public class DatabaseConnectionManager {
 
 	/**
 	 * @param args
